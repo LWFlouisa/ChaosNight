@@ -1,4 +1,4 @@
-# ChaosNight
+# Kaosunaito: Nuit Chaotique
 A theoretical JRPG framework that's the Anti-Thesis of the Grandia RPG series.
 
 ## Music Elements
